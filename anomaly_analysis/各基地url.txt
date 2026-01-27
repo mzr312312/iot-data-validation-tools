@@ -1,0 +1,12 @@
+扬州基地=http://基地IP:端口号/japrojecttag/timeseries
+奉贤基地=http://基地IP:端口号/japrojecttag/timeseries
+义乌基地=http://基地IP:端口号/japrojecttag/timeseries
+曲靖基地=http://基地IP:端口号/japrojecttag/timeseries
+合肥基地=http://基地IP:端口号/japrojecttag/timeseries
+鄂尔多斯基地=http://基地IP:端口号/japrojecttag/timeseries
+包头基地=http://基地IP:端口号/japrojecttag/timeseries
+东台基地=http://基地IP:端口号/japrojecttag/timeseries
+石家庄基地老平台=http://基地IP:端口号/japrojecttag/timeseries
+石家庄基地新平台=http://基地IP:端口号/japrojecttag/timeseries
+邢台基地=http://基地IP:端口号/japrojecttag/timeseries
+宁晋基地=http://基地IP:端口号/japrojecttag/timeseries

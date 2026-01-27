@@ -1,0 +1,39 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.pyd
+*.so
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# ---- Virtualenv / env ----
+.venv/
+venv/
+ENV/
+env/
+.env
+.env.*
+
+# ---- IDE / OS ----
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# ---- Logs ----
+*.log
+
+# ---- Data outputs / exports ----
+outputs/
+output/
+out/
+*.xlsx
+*.csv
+
+# ---- Local config (avoid leaking internal endpoints) ----
+config/base_urls.txt
+config/*.secret.*
