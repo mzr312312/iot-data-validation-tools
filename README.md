@@ -1,4 +1,3 @@
-````markdown
 # IoT Timeseries Validation Tools（IoT 数据校验工具集）
 
 概览：针对IoT平台功能短板，服务各基地数据运维人员，使用一份 Excel 作为输入（采集点编码 + 时间戳），按基地配置批量拉取 IoT 时序数据，输出可对账的明细表（Excel）与异常曲线图（PNG），用于快速核验、定位与留痕。
